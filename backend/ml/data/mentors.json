@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sarah Thompson",
+    "specialty": "Fintech",
+    "bio": "Former CFO turned startup advisor in financial tech."
+  },
+  {
+    "name": "Ana Gomez",
+    "specialty": "Fintech",
+    "bio": "VC-backed fintech founder and mentor."
+  },
+  {
+    "name": "Jorge Alvarez",
+    "specialty": "AgriTech",
+    "bio": "Agricultural engineer with a focus on smart farming solutions."
+  },
+  {
+    "name": "Dr. Nina Patel",
+    "specialty": "HealthTech",
+    "bio": "Healthcare innovation lead with 15+ years in digital health."
+  },
+  {
+    "name": "Susan Lee",
+    "specialty": "HealthTech",
+    "bio": "Specialist in regulatory strategy for healthtech startups."
+  },
+  {
+    "name": "Kevin Liu",
+    "specialty": "AI/ML",
+    "bio": "Ex-Google AI researcher, mentoring early-stage ML startups."
+  },
+  {
+    "name": "Alisha Roy",
+    "specialty": "AI/ML",
+    "bio": "Built ML models for large-scale recommendation engines."
+  },
+  {
+    "name": "Tommy Hughes",
+    "specialty": "E-commerce",
+    "bio": "Expert in logistics and e-commerce platform scaling."
+  },
+  {
+    "name": "Mira Venkatesh",
+    "specialty": "E-commerce",
+    "bio": "Worked on personalization at major e-commerce sites."
+  },
+  {
+    "name": "Lena Rousseau",
+    "specialty": "E-commerce",
+    "bio": "Built and exited a successful D2C jewelry brand."
+  },
+  {
+    "name": "Omar Khan",
+    "specialty": "Sustainability",
+    "bio": "Founder of a B-corp focused on zero-waste packaging."
+  },
+  {
+    "name": "Mei Chen",
+    "specialty": "Blockchain",
+    "bio": "Smart contract expert and blockchain strategy consultant."
+  },
+  {
+    "name": "Fatima Noor",
+    "specialty": "Blockchain",
+    "bio": "Blockchain governance researcher and speaker."
+  },
+  {
+    "name": "Daniel Schmidt",
+    "specialty": "Blockchain",
+    "bio": "Built infrastructure for decentralized identity solutions."
+  }
+]
